@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+alembic
+pydantic-settings
+python-dotenv
+email-validator
+pytest
+httpx
+pwdlib[argon2]
+PyJWT[crypto]
+razorpay>=1.4.1
